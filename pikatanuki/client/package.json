@@ -30,7 +30,7 @@
     "webpack-dev-server": "^3.10.3"
   },
   "dependencies": {
-    "prismjs": "^1.19.0",
+    "prismjs": "^1.24.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-google-login": "^5.1.1",
